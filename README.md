@@ -1,2 +1,2 @@
 # STAT545class2
-Class Codes
+This repostory is created for the codes we complete in the class.
